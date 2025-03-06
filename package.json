@@ -2,7 +2,7 @@
   "name": "github-repo-explorer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://firdaus2995.github.io/repo-explorer",
+  "homepage": "https://firdaus2995.github.io",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.0",
     "axios": "^1.8.1",
