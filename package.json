@@ -1,8 +1,8 @@
 {
   "name": "github-repo-explorer",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://firdaus2995.github.io/github-repo-explorer",
+  "private": true,
+  "homepage": "https://firdaus2995.github.io/repo-explorer",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.0",
     "axios": "^1.8.1",
@@ -20,7 +20,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
