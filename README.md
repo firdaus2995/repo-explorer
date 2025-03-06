@@ -24,7 +24,7 @@ A React application that allows users to search for GitHub users and view their 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/github-repo-explorer.git
+   git clone https://github.com/firdaus2995/repo-explorer.git
    cd github-repo-explorer
    ```
 2. **Install dependencies**
